@@ -7,4 +7,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadioactivePotato&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadioactivePotato&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
+---
+**Programming humour**
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
