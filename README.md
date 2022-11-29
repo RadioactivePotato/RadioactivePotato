@@ -1,4 +1,10 @@
-### Welcome to my GitHub profile!<br>
+### Welcome to my GitHub profile!
+
+<p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+Ms&size=25&duration=1000&pause=500&color=2150F7&width=435&lines=Typing...;Typing...;Typing..." alt="Typing SVG" /></a></p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=jude-gideon&icon=2&color=9)](https://visitcount.itsvg.in)
+
 ## Socials
 [<image src="./twitter.png" alt=Twitter width=64/>](https://twitter.com/RadioactiveP724)
 [<image src="./discord.png" alt=YouTube width=64/>](https://discordapp.com/users/1007668866731757671)
