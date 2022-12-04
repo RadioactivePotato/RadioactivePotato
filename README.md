@@ -16,7 +16,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RadioactivePotato&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-----
-## 😆 Programming humour
+
+## 😆 Random Programming humour
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
