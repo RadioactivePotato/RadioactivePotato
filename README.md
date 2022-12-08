@@ -7,9 +7,10 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discordapp.com/users/1007668866731757671)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RadioactiveP724)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@radioactive.potato) 
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/FuzzyFanta724?style=social)
 
-## 🎥 YouTube ststs:
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvTYoeig9zcDVLlZuW4KjA?style=social)
+## 🎥 YouTube channel ststs:
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNvTYoeig9zcDVLlZuW4KjA?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvTYoeig9zcDVLlZuW4KjA?style=social) 
 
 ## 💻 I can speak:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
