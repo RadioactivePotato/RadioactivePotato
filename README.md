@@ -8,7 +8,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@radioactive.potato) 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/FuzzyFanta724?style=social)
 
-## 🎥 YouTube channel ststs:
+## 🎥 YouTube channel stats:
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNvTYoeig9zcDVLlZuW4KjA?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvTYoeig9zcDVLlZuW4KjA?style=social) 
 
 ## 💻 I can speak:
