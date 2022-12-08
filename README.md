@@ -9,7 +9,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@radioactive.potato) 
 
 ## 🎥 YouTube ststs:
-<img alt="Views" src="https://img.shields.io/youtube/channel/views/UCNvTYoeig9zcDVLlZuW4KjA?style=social">
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvTYoeig9zcDVLlZuW4KjA?style=social)
 
 ## 💻 I can speak:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
