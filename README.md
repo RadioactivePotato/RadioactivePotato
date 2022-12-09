@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discordapp.com/users/1007668866731757671)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RadioactiveP724)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@radioactive.potato) 
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/FuzzyFanta724?style=social)](https://reddit.com/u/FuzzyFanta724)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/FuzzyFanta724?style=social)](https://reddit.com/u/FuzzyFanta724)
 
 ## 🎥 YouTube channel stats:
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNvTYoeig9zcDVLlZuW4KjA?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvTYoeig9zcDVLlZuW4KjA?style=social) 
