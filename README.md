@@ -3,8 +3,7 @@
 [![Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&icon=2&color=9)](https://visitcount.itsvg.in) ![GitHub followers](https://img.shields.io/github/followers/RadioactivePotato?style=social)
 
 - Founder of [Potato Incorporated](https://github.com/Potato-Incorporated)
-- Code Editor: [Visual Code](https://code.visualstudio.com)
-- 
+- Code Editor: [Visual Studio Code](https://code.visualstudio.com)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discordapp.com/users/1007668866731757671)
