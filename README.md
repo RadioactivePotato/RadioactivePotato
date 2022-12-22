@@ -45,8 +45,9 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/z9ijbu7b06cspshlalll571mh)
 
 ## 📊 GitHub Stats:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadioactivePotato&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![RadioactivePotato's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadioactivePotato&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=RadioactivePotato&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RadioactivePotato&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadioactivePotato&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RadioactivePotato&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
