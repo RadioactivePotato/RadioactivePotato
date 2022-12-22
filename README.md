@@ -1,6 +1,6 @@
 ## 👀 Welcome to my GitHub profile!
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&icon=2&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Visits&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ![GitHub followers](https://img.shields.io/github/followers/RadioactivePotato?style=social)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
