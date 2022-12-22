@@ -44,13 +44,12 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/z9ijbu7b06cspshlalll571mh)
 
-
 ## 📊 GitHub Stats:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadioactivePotato&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![RadioactivePotato's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadioactivePotato&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RadioactivePotato&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RadioactivePotato&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 😆 Random Programming humour
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
@@ -76,4 +75,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
+---
 Badges are from [Github/Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges), [forthebadge.com](https://forthebadge.com) and [shields.io](https://shields.io)
