@@ -87,7 +87,7 @@
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
 <p align="center">
-<img src="https://github.com/RadioactivePotato/RadioactivePotato/raw/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/potato-incorporated.svg">
+<img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/potato-incorporated.svg">
 </p>
 
 <p align="center">
