@@ -1,6 +1,6 @@
 ## 👀 Welcome to my GitHub profile!
 
-[![](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Visits&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![Profile Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Visits&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ![GitHub followers](https://img.shields.io/github/followers/RadioactivePotato?style=social)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -83,4 +83,4 @@
 </p>
 
 ---
-Badges are from [Github/Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges), [forthebadge.com](https://forthebadge.com) and [shields.io](https://shields.io)
+Badges are from [Github/Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges), [Github/VishwaGauravIn/pretty-readme-badges](https://github.com/VishwaGauravIn/pretty-readme-badges), [forthebadge.com](https://forthebadge.com) and [shields.io](https://shields.io)
