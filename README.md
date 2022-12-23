@@ -1,8 +1,7 @@
-## 👀 Welcome to my GitHub profile!
+## 👀 Welcome to my GitHub profile! ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 [![Profile Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Visits&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ![GitHub followers](https://img.shields.io/github/followers/RadioactivePotato?style=social)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - Founder of [Potato Incorporated](https://github.com/Potato-Incorporated)
 
