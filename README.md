@@ -1,4 +1,4 @@
-## 👀 Welcome to my GitHub profile! ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 👀 Welcome to my GitHub profile!
 
 [![Profile Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Visits&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ![GitHub followers](https://img.shields.io/github/followers/RadioactivePotato?style=social)
@@ -10,6 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RadioactiveP724)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@radioactive.potato) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/u/FuzzyFanta724)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RadioactivePotato)
 
 ## 🎥 YouTube channel stats:
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNvTYoeig9zcDVLlZuW4KjA?style=social)
