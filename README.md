@@ -56,8 +56,8 @@
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/z9ijbu7b06cspshlalll571mh)
 
-## 🕊 Twitter
-[![@RadioactiveP724](https://gtce.itsvg.in/api?username=RadioactiveP724&theme=transparent)
+## 🕊 Latest Tweet:
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=RadioactiveP724&theme=dark&response=true&border=true&time=true&icon=thunder"/></a>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RadioactivePotato&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
