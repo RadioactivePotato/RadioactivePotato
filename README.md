@@ -39,7 +39,6 @@
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 
 #### Version Control
-![GitLab](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 #### Web Browsers
