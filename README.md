@@ -3,8 +3,6 @@
 [![Profile Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Visits&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ![GitHub followers](https://img.shields.io/github/followers/RadioactivePotato?style=social)
 
-- Founder of [Potato Incorporated](https://github.com/Potato-Incorporated)
-
 ## 🌐 Socials:
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=1166013268008120340)](https://discordapp.com/users/1166013268008120340)
 
@@ -21,10 +19,10 @@
 ## 💻 I can speak:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.com)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## ‍🏫 Currently learning:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) #Replit100DaysOfCode
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)?
 
 ## 🗒 I use:
 
