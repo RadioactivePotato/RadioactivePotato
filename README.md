@@ -6,7 +6,7 @@
 - Founder of [Potato Incorporated](https://github.com/Potato-Incorporated)
 
 ## 🌐 Socials:
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=1007668866731757671)](https://discordapp.com/users/1007668866731757671)
+[![My Discord](https://discord-readme-badge.vercel.app/api?id=1166013268008120340)](https://discordapp.com/users/1166013268008120340)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1007668866731757671)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RadioactiveP724)
