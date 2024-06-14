@@ -12,10 +12,14 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-***
-![](https://github-readme-stats.vercel.app/api?username=RadioactivePotato&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RadioactivePotato&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadioactivePotato&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RadioactivePotato&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadioactivePotato&theme=cobalt&layout=compact" />
+</a>
+
+![](https://github-readme-streak-stats.herokuapp.com?user=RadioactivePotato&theme=vue-dark)<br/>
 
 ***
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RadioactivePotato&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
