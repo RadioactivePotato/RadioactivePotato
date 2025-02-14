@@ -1,6 +1,6 @@
 ## 👀 Welcome to my GitHub profile!
 
-[![Profile Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<!-- [![Profile Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in) -->
 
 ## 🌐 Socials:
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=1166013268008120340)](https://discordapp.com/users/1166013268008120340)
