@@ -44,5 +44,5 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=z9ijbu7b06cspshlalll571mh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/RadioactivePotato/RadioactivePotato/refs/heads/main/radioactivepotato-snake.svg">
 </p>
